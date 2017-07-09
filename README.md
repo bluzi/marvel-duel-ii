@@ -12,9 +12,11 @@ Create duels between Marvel superheroes
 
 ## Tech
 ### Client
-* Angular 4, using TypeScript 2.3
+* Angular 4 
+* Typescript 2.3
 * Bulma ( http://bulma.io )
 
 ### Server
-* Express, using JavaScript
+* Express
+* Javascript
 * MongoDB (Hosted on mlab.com)
