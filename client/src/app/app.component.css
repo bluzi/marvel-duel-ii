@@ -1,0 +1,9 @@
+html {
+    background: #000 url('/assets/images/background.jpg') center 0 no-repeat;
+    text-align: center;
+    padding: 20px;
+}
+
+.auto-margin {
+    margin: 0 auto;
+}
