@@ -1,4 +1,5 @@
-# Marvel Duel II
+Marvel Duel II
+===============
 Create duels between Marvel superheroes 
 
 ## Instructions
